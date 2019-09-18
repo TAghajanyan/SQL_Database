@@ -6,4 +6,4 @@
 * Binary data types such as binary, varbinary etc.
 * Miscellaneous data types – clob, blob, xml, cursor, table etc.
 
-![](C:\Users\ROT\Desktop\Capture.PNG)
+![](https://user-images.githubusercontent.com/49315942/65149737-b5375380-da33-11e9-87ff-96879d5a533c.PNG)
