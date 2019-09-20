@@ -27,4 +27,4 @@ alter table Students
 add Country varchar(30) not null
 
 alter table Students
-add GPA real not null
+add GPA real not null 
