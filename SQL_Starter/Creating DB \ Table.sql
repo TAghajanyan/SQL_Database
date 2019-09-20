@@ -7,8 +7,8 @@ CREATE TABLE Students
     ID int primary key NOT NULL IDENTITY(1,5000),
     FirstName varchar(5),
     LastName varchar(10),
-	  Birthday date,
-	  Gender varchar(10)
+    Birthday date,
+    Gender varchar(10)
 ); 
 
 alter table Students
